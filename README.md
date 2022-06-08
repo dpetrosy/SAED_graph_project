@@ -17,7 +17,7 @@
 #### 6. Install graphviz, if you don't have: &nbsp;**<code>sudo apt install graphviz</code>**
 #### 7. Check installation with command: &nbsp;**<code>dot -V</code>**
 #### 8. Clone this repo: &nbsp;**<code>git clone https://github.com/dpetrosy/graph_course_project.git</code>**
-#### 9. Go to directory: &nbsp;**<code>cd graph_course_project</code>**
+#### 9. Go to directory: &nbsp;**<code>cd graph_course_project/code</code>**
 #### 10. Run make and build program: &nbsp;**<code>make</code>**
 #### 11. Run executable: &nbsp;**<code>./graph.exe</code>**
 #### 12. Congrats! Now you can see your inputted graph and found spanning tree :)
