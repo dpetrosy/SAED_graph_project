@@ -12,7 +12,7 @@
 #### 1. Start by updating the packages list: &nbsp;**<code>sudo apt update</code>**
 #### 2. Install G++ compiler, if you don't have: &nbsp;**<code>sudo apt install build-essential</code>**
 #### 3. Check installation with command: &nbsp;**<code>g++ --version</code>**
-#### 4. Make must install with build-essential, check it: &nbsp;**<code>make --version</code>**
+#### 4. Make must install with build-essential package, check it: &nbsp;**<code>make --version</code>**
 #### 5. Install make package, if you don't have: &nbsp;**<code>sudo apt install make</code>**
 #### 6. Install graphviz, if you don't have: &nbsp;**<code>sudo apt install graphviz</code>**
 #### 7. Check installation with command: &nbsp;**<code>dot -V</code>**
