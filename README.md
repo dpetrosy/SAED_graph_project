@@ -6,7 +6,7 @@
 #### 4. Check if the simple graph is connected or not, because a given graph must be connected.
 #### 5. If the graph is connected, find the spanning tree by using DFS algorithm.
 #### 6. Visualize inputted graph and found spanning tree with graphviz.
-#### [Input example](https://github.com/dpetrosy) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Output example](https://github.com/dpetrosy)
+#### [Input example](https://github.com/dpetrosy/graph_course_project/blob/master/README_files/input_example.txt) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Output example](https://github.com/dpetrosy/graph_course_project/blob/master/README_files/output_example.jpg)
 
 ## 👨‍💻 Getting Started
 #### 1. Start by updating the packages list: &nbsp;**<code>sudo apt update</code>**
