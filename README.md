@@ -20,5 +20,5 @@
 #### 9. Go to directory: &nbsp;**<code>cd graph_course_project/code</code>**
 #### 10. Run make and build program: &nbsp;**<code>make</code>**
 #### 11. Run executable: &nbsp;**<code>./graph.exe</code>**
-#### 12. Congrats! Now you can see your inputted graph and found spanning tree :)
+#### Congrats! Now you can see your inputted graph and found spanning tree :)
 #### You can change **<code>input.txt</code>** file, and see how program works😎
