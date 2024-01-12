@@ -29,5 +29,5 @@ For program-correct work, you must have [Graphviz](https://graphviz.org/) on you
 10. Run make and build program: &nbsp;`make`
 11. Run executable: &nbsp;`./graph.exe`
 
-Congrats! Now you can see your inputted graph and found spanning tree :)
+Congrats! Now you can see your inputted graph and found spanning tree :) \
 You can change `input.txt` file, and see how program works😎
