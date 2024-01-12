@@ -18,16 +18,16 @@ For program-correct work, you must have [Graphviz](https://graphviz.org/) on you
 ## 👨‍💻 Getting Started
 
 1. Start by updating the packages list: &nbsp;`sudo apt update`
-2. Install G++ compiler, if you don't have: &nbsp;`sudo apt install build-essential`
-3. Check installation with command: &nbsp;`g++ --version`
-4. Make must be installed with build-essential package, check it: &nbsp;`make --version`
-5. Install make package, if you don't have: &nbsp;`sudo apt install make`
-6. Install Graphviz, if you don't have: &nbsp;`sudo apt install graphviz`
-7. Check installation with command: &nbsp;`dot -V`
+2. Install the G++ compiler if you don't have: &nbsp;`sudo apt install build-essential`
+3. Check installation with the command: &nbsp;`g++ --version`
+4. Make must be installed with the build-essential package; check it: &nbsp;`make --version`
+5. Install the make package if you don't have: &nbsp;`sudo apt install make`
+6. Install Graphviz if you don't have: &nbsp;`sudo apt install graphviz`
+7. Check installation with the command: &nbsp;`dot -V`
 8. Clone this repo: &nbsp;`git clone https://github.com/dpetrosy/SAED_graph_project.git`
 9. Go to directory: &nbsp;`cd graph_course_project`
-10. Run make and build program: &nbsp;`make`
+10. Run the make and build program: &nbsp;`make`
 11. Run executable: &nbsp;`./graph.exe`
 
-Congrats! Now you can see your inputted graph and found spanning tree :) \
-You can change `input.txt` file, and see how program works😎
+Congrats! Now you can see your inputted graph and found the spanning tree :) \
+You can change the `input.txt` file and see how the program works 😎
